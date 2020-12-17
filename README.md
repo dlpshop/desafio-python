@@ -9,7 +9,7 @@ Fique à vontade para tentar quantas vezes quiser :muscle:
 ## Instruções
 * Crie um repositório aqui no Github para versionar seu código.
 * Crie um projeto do tipo ```Basic Kanban``` e organize as tarefas necessárias para finalizar o desafio.
-* [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSdNPKsG9ILJdW4ZTMoSAXXv59A8Uppjm3zciSmuMwR2NkOUAQ/viewform) para enviar o link do repositório e a estimativa de conclusão.
+* [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSd1DTmRW-DfU7KwgiUTrfA6mzuLVWDouyghXTd4xNkPd-nweQ/viewform) para enviar o link do repositório e a estimativa de conclusão.
 * Utilize Python :snake: para construir o desafio. Fique à vontade para escolher os frameworks, libs, banco de dados, etc.
 * [Clique aqui](https://docs.google.com/forms/d/e/1FAIpQLSdNPKsG9ILJdW4ZTMoSAXXv59A8Uppjm3zciSmuMwR2NkOUAQ/viewform) quando terminar de codificar. :trophy:
 * Seu desafio será avaliado pelo nosso time de especialistas. Caso seja aprovado, agendaremos uma data para você apresentá-lo. #keepcalm
