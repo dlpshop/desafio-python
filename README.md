@@ -4,8 +4,6 @@ Olá, agradecemos o seu interesse em fazer parte desse super time!
 
 O objetivo do desafio é entender o quanto você conhece sobre planejamento, codificação e monitoria. [Clique aqui](https://github.com/dlpshop/bushido-dev) para ver quais são os valores e responsabilidades dos nossos devs.
 
-Fique à vontade para tentar quantas vezes quiser :muscle:
-
 ## Instruções
 * Crie um repositório aqui no Github para versionar seu código.
 * Crie um projeto do tipo ```Basic Kanban``` e organize as tarefas necessárias para finalizar o desafio.
